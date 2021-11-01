@@ -8,7 +8,11 @@
 - 네이버 데이터랩 크롤링
 - 코스피, 나스닥 지수 파악
 
+
 # 🍀 실행 예시
+
+https://user-images.githubusercontent.com/77018024/139708778-dc06dbfb-7989-4d05-ad4c-54828dbfdeaa.mp4
+
 <img src="https://images.velog.io/images/bty5596/post/3b091622-bb21-4f68-8b83-c8c605162090/image.png" width="32%" height="50%"><img src="https://images.velog.io/images/bty5596/post/0cabb56d-7806-4540-8b10-165558386ff6/asdf.PNG" width="30%" height="30%"> 
 
 <img src="https://images.velog.io/images/bty5596/post/70a0e269-3e88-4012-806e-2be6bfa85ce0/image.png" width="32%" height=400><img src="https://images.velog.io/images/bty5596/post/9c75f92b-2891-4be3-9b0d-b05c8e937064/image.png" width="30%" height=400>
