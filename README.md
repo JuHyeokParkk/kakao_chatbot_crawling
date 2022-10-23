@@ -1,15 +1,15 @@
-# 😍 kakao_chatbot_crawling
+# kakao_chatbot_crawling
 [카카오 챗봇(Crawling)] 비트코인 시세 등을 알려주는 챗봇입니다.
 
 
-# 💪 구현 기능
+# 구현 기능
 - 비트코인 시세, 관련 기사 크롤링
 - 해외 주식 티커 입력을 통한 시세 파악
 - 네이버 데이터랩 크롤링
 - 코스피, 나스닥 지수 파악
 
 
-# 🍀 실행 예시
+# 실행 예시
 
 https://user-images.githubusercontent.com/77018024/139708778-dc06dbfb-7989-4d05-ad4c-54828dbfdeaa.mp4
 
